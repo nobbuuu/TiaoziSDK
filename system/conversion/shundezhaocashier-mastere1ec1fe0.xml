@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\codeStyles\Project.xml" timestamp="1530951624728" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\codeStyles\codeStyleConfig.xml" timestamp="1530963821041" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\encodings.xml" timestamp="1530951574354" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\gradle.xml" timestamp="1530952707137" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__android_arch_core_common_1_0_0_jar.xml" timestamp="1530951910811" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" timestamp="1530951910929" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_0_0.xml" timestamp="1530951911042" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_26_1_0.xml" timestamp="1530951911164" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_appcompat_v7_26_1_0.xml" timestamp="1530951911523" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_2.xml" timestamp="1530951911612" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_2_jar.xml" timestamp="1530951911755" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_design_26_1_0.xml" timestamp="1530951911911" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_recyclerview_v7_26_1_0.xml" timestamp="1530951912030" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_annotations_26_1_0_jar.xml" timestamp="1530951912105" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_compat_26_1_0.xml" timestamp="1530951912407" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_core_ui_26_1_0.xml" timestamp="1530951912496" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_core_utils_26_1_0.xml" timestamp="1530951912577" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_fragment_26_1_0.xml" timestamp="1530951912804" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_media_compat_26_1_0.xml" timestamp="1530951912933" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_v4_26_1_0.xml" timestamp="1530951913063" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_support_vector_drawable_26_1_0.xml" timestamp="1530951913238" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_android_support_transition_26_1_0.xml" timestamp="1530951914098" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" timestamp="1531320839208" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_google_code_gson_gson_2_4_jar.xml" timestamp="1530959866081" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_google_dagger_dagger_2_4_jar.xml" timestamp="1530957435550" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_google_zxing_core_3_3_2_jar.xml" timestamp="1531226831032" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_jakewharton_butterknife_7_0_1_jar.xml" timestamp="1530952920121" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_journeyapps_zxing_android_embedded_3_6_0.xml" timestamp="1531226831094" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_squareup_okhttp3_okhttp_3_3_0_jar.xml" timestamp="1530959866146" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_squareup_okio_okio_1_8_0_jar.xml" timestamp="1530959866200" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_squareup_retrofit2_adapter_rxjava_2_0_1_jar.xml" timestamp="1530959866278" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_squareup_retrofit2_converter_gson_2_0_0_beta4_jar.xml" timestamp="1530959866341" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_squareup_retrofit2_converter_scalars_2_0_0_beta4_jar.xml" timestamp="1530959866411" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_squareup_retrofit2_retrofit_2_1_0_jar.xml" timestamp="1530959866503" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_yanzhenjie_loading_1_0_2.xml" timestamp="1531319068611" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__com_yanzhenjie_recyclerview_swipe_1_1_4.xml" timestamp="1531319068735" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__io_reactivex_rxandroid_1_1_0.xml" timestamp="1530958360990" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__io_reactivex_rxjava_1_1_5_jar.xml" timestamp="1530958361110" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1530951915966" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__org_glassfish_javax_annotation_10_0_b28_jar.xml" timestamp="1530957435723" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\libraries\Gradle__org_greenrobot_eventbus_3_0_0_jar.xml" timestamp="1530952920187" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\misc.xml" timestamp="1532008585101" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\modules.xml" timestamp="1530957431580" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\runConfigurations.xml" timestamp="1530951624895" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\vcs.xml" timestamp="1531034836890" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\.idea\workspace.xml" timestamp="1532091142031" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\app\app.iml" timestamp="1531660789829" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\commonlibrary\commonlibrary.iml" timestamp="1530957435263" />
+    <file path="F:\AndroidStudio_Work\shundezhaocashier-master\shundezhaocashier-master.iml" timestamp="1530951910132" />
+  </project-files>
+</conversion>
+

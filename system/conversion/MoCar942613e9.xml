@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\codeStyles\Project.xml" timestamp="1530951899540" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\encodings.xml" timestamp="1530951860841" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\gradle.xml" timestamp="1530951899220" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__SMSSDKGUI_3_0_0__aar.xml" timestamp="1530951918371" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__SMSSDK_3_0_0__aar.xml" timestamp="1530951918558" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_MobCommons_2017_1201_1507_jar_unspecified_jar.xml" timestamp="1530951918751" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_MobTools_2017_1201_1507_jar_unspecified_jar.xml" timestamp="1530951919006" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_ShareSDK_Core_3_1_2_jar_unspecified_jar.xml" timestamp="1530951919161" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_ShareSDK_QQ_3_1_2_jar_unspecified_jar.xml" timestamp="1530951919349" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_ShareSDK_SinaWeibo_3_1_2_jar_unspecified_jar.xml" timestamp="1530951919554" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_ShareSDK_Wechat_3_1_2_jar_unspecified_jar.xml" timestamp="1530951919766" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_ShareSDK_Wechat_Core_3_1_2_jar_unspecified_jar.xml" timestamp="1530951919985" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_ShareSDK_Wechat_Moments_3_1_2_jar_unspecified_jar.xml" timestamp="1530951920174" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_alipaySdk_20170922_jar_unspecified_jar.xml" timestamp="1530951920423" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_bugly_2_4_0_imsdk_release_jar_unspecified_jar.xml" timestamp="1530951920656" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_core_3_2_1_jar_unspecified_jar.xml" timestamp="1530951920831" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_imsdk_jar_unspecified_jar.xml" timestamp="1530951920990" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_imsdk_msg_ext_jar_unspecified_jar.xml" timestamp="1530951921137" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_imsdk_sns_ext_jar_unspecified_jar.xml" timestamp="1530951921568" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_mobilepb_jar_unspecified_jar.xml" timestamp="1530951921755" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_org_apache_http_legacy_jar_unspecified_jar.xml" timestamp="1530951921859" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_pinyin4j_2_5_0_jar_unspecified_jar.xml" timestamp="1530951922015" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_qalsdk_jar_unspecified_jar.xml" timestamp="1530951922287" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_soload_jar_unspecified_jar.xml" timestamp="1530951922609" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_tbs_jar_unspecified_jar.xml" timestamp="1530951922881" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_tls_sdk_jar_unspecified_jar.xml" timestamp="1530951922968" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle____local_jars___F__AndroidStudio_Work_MoCar_app_libs_wup_1_0_0_SNAPSHOT_jar_unspecified_jar.xml" timestamp="1530951923210" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_amap_api_3dmap_6_3_0_jar.xml" timestamp="1530951923430" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_amap_api_location_4_1_0_jar.xml" timestamp="1530951923579" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_amap_api_search_6_1_0_jar.xml" timestamp="1530951923860" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_25_3_1.xml" timestamp="1530951924087" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_appcompat_v7_25_3_1.xml" timestamp="1530951924309" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_design_25_3_1.xml" timestamp="1530951924585" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_multidex_1_0_1.xml" timestamp="1530951924830" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_multidex_instrumentation_1_0_1.xml" timestamp="1530951925174" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_recyclerview_v7_25_3_1.xml" timestamp="1530951925405" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_annotations_25_3_1_jar.xml" timestamp="1530951925575" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_compat_25_3_1.xml" timestamp="1530951925803" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_core_ui_25_3_1.xml" timestamp="1530951925959" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_core_utils_25_3_1.xml" timestamp="1530951926277" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_fragment_25_3_1.xml" timestamp="1530951926513" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_media_compat_25_3_1.xml" timestamp="1530951926781" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_v4_25_3_1.xml" timestamp="1530951927123" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_support_vector_drawable_25_3_1.xml" timestamp="1530951927285" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_android_support_transition_25_3_1.xml" timestamp="1530951927538" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_contrarywind_Android_PickerView_3_2_5.xml" timestamp="1530951927744" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_darsh_multipleimageselect_multipleimageselect_1_0_4.xml" timestamp="1530951928110" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_github_CymChad_BaseRecyclerViewAdapterHelper_2_9_30.xml" timestamp="1530951928317" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" timestamp="1530951928545" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_google_code_gson_gson_2_4_jar.xml" timestamp="1530951928757" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_google_dagger_dagger_2_4_jar.xml" timestamp="1530951929024" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_jakewharton_butterknife_7_0_1_jar.xml" timestamp="1530951929305" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_jph_takephoto_takephoto_library_4_0_3.xml" timestamp="1530951929573" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_kevin_wraprecyclerview_1_0_6.xml" timestamp="1530951929744" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_scwang_smartrefresh_SmartRefreshLayout_1_0_4.xml" timestamp="1530951930045" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_soundcloud_android_crop_lib_crop_1_0_0.xml" timestamp="1530951930195" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_squareup_okhttp3_okhttp_3_3_0_jar.xml" timestamp="1530951930596" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_squareup_okio_okio_1_8_0_jar.xml" timestamp="1530951930911" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_squareup_retrofit2_adapter_rxjava_2_0_1_jar.xml" timestamp="1530951931232" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_squareup_retrofit2_converter_gson_2_0_0_beta4_jar.xml" timestamp="1530951931440" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_squareup_retrofit2_converter_scalars_2_0_0_beta4_jar.xml" timestamp="1530951931610" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_squareup_retrofit2_retrofit_2_1_0_jar.xml" timestamp="1530951931912" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_tencent_mid_mid_4_0_0_release.xml" timestamp="1530951932071" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_tencent_mm_opensdk_wechat_sdk_android_without_mta_5_1_4_jar.xml" timestamp="1530951932140" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_tencent_xinge_xinge_3_2_0_release.xml" timestamp="1530951932772" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__com_youth_banner_banner_1_4_10.xml" timestamp="1530951932922" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__io_reactivex_rxandroid_1_2_1.xml" timestamp="1530951933169" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__io_reactivex_rxjava_1_2_1_jar.xml" timestamp="1530951933418" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1530951933571" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1530951933910" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__me_shaohui_advancedluban_library_1_3_2.xml" timestamp="1530951934103" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__org_apache_commons_commons_lang3_3_6_jar.xml" timestamp="1530951934493" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__org_apache_http_legacy_android_25.xml" timestamp="1530951934875" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__org_glassfish_javax_annotation_10_0_b28_jar.xml" timestamp="1530951935033" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__org_greenrobot_eventbus_3_0_0_jar.xml" timestamp="1530951935497" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1530951935761" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\libraries\Gradle__org_jsoup_jsoup_1_6_1_jar.xml" timestamp="1530951935913" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\misc.xml" timestamp="1530967920626" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\modules.xml" timestamp="1530951918109" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\runConfigurations.xml" timestamp="1530951899674" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\vcs.xml" timestamp="1530952102069" />
+    <file path="F:\AndroidStudio_Work\MoCar\.idea\workspace.xml" timestamp="1532007732744" />
+    <file path="F:\AndroidStudio_Work\MoCar\MoCar.iml" timestamp="1530951917389" />
+    <file path="F:\AndroidStudio_Work\MoCar\app\app.iml" timestamp="1530952101670" />
+  </project-files>
+</conversion>
+

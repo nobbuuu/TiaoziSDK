@@ -1,0 +1,36 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="334" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="90" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="329" y="189" />
+    <location key="SettingsEditor.0.0.1366.768" x="161" y="10" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1366.768" x="263" y="120" />
+    <location key="find.popup.0.0.1366.768" x="345" y="68" />
+    <location key="#Project_Structure.0.0.1366.768" x="265" y="16" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="401" y="240" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="69" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="262" y="20" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="120" />
+    <location key="AndroidProcessChooserDialog.0.0.1366.768" x="538" y="130" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="292" y="0" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="93" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="446" y="247" />
+    <location key="MergeDialog.0.0.1366.768" x="1" y="29" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="375" y="93" />
+    <location key="extract.method.dialog.0.0.1366.768" x="413" y="159" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="111" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="323" y="65" />
+    <size key="find.popup.0.0.1366.768" width="884" height="639" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="0" height="0" />
+    <size key="javadoc.popup.0.0.1366.768" width="446" height="171" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="217" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="217" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="217" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="217" />
+    <size key="MergeDialog.0.0.1366.768" width="1365" height="670" />
+    <size key="NewModule_or_Project.wizard.0.0.1366.768" width="733" height="598" />
+  </component>
+</application>

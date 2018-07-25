@@ -1,0 +1,14 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="13" />
+      <entry path="Build -&gt; Generate Signed APK..." count="4" />
+      <entry path="Build -&gt; Rebuild Project" count="9" />
+      <entry path="File -&gt; New -&gt; Import Project..." count="4" />
+      <entry path="File -&gt; New -&gt; New Module..." count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="15" />
+      <entry path="File -&gt; Settings..." count="16" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidSdkManager@MainToolbar" count="1" />
+      <entry action="AndroidConnectDebuggerAction@MainToolbar" count="39" />
+      <entry action="CheckinProject@MainToolbar" count="13" />
+      <entry action="MakeGradleProject@MainToolbar" count="1" />
+      <entry action="Resume@DebuggerToolbar" count="71" />
+      <entry action="Run@MainToolbar" count="151" />
+      <entry action="Stop@DebuggerToolbar" count="11" />
+      <entry action="Stop@MainToolbar" count="81" />
+      <entry action="Vcs.UpdateProject@MainToolbar" count="7" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="16" />
+      <entry action="com.android.tools.idea.configurations.TargetMenuAction@toolbar" count="4" />
+      <entry action="com.android.tools.idea.logcat.LogcatConsoleActionsPostProcessor$ClearLogCatAction@AndroidLogcatView" count="74" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.openapi.actionSystem.impl.ChameleonAction@MainToolbar" count="2" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$8@Keymap" count="7" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="14" />
+      <entry action="com.intellij.usages.impl.UsageViewImpl$MergeDupLines@UsageViewToolbar" count="1" />
+    </counts>
+  </component>
+</application>

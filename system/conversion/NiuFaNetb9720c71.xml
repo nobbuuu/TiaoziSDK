@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\codeStyles\Project.xml" timestamp="1531317816623" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\encodings.xml" timestamp="1531315616529" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\gradle.xml" timestamp="1531318294781" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_MobCommons_2017_0914_1125_jar_unspecified_jar.xml" timestamp="1531318541433" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_MobTools_2017_0914_1125_jar_unspecified_jar.xml" timestamp="1531318541574" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_Msc_jar_unspecified_jar.xml" timestamp="1531318541746" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_ShareSDK_Core_3_1_0_jar_unspecified_jar.xml" timestamp="1531318541965" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_ShareSDK_QQ_3_1_0_jar_unspecified_jar.xml" timestamp="1531318542215" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_ShareSDK_SinaWeibo_3_1_0_jar_unspecified_jar.xml" timestamp="1531318542496" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_ShareSDK_Wechat_3_1_0_jar_unspecified_jar.xml" timestamp="1531318542746" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_ShareSDK_Wechat_Core_3_1_0_jar_unspecified_jar.xml" timestamp="1531318543418" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_ShareSDK_Wechat_Favorite_3_1_0_jar_unspecified_jar.xml" timestamp="1531318543793" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_ShareSDK_Wechat_Moments_3_1_0_jar_unspecified_jar.xml" timestamp="1531318544043" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle____local_aars___F__AndroidStudio_Work_NiuFaNet_app_libs_Sunflower_jar_unspecified_jar.xml" timestamp="1531318544262" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_24_2_1.xml" timestamp="1531318544449" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_appcompat_v7_24_2_1.xml" timestamp="1531318544574" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_design_24_0_0.xml" timestamp="1531318544668" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_recyclerview_v7_24_0_0.xml" timestamp="1531318544840" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_annotations_24_2_1_jar.xml" timestamp="1531318544965" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_compat_24_2_1.xml" timestamp="1531318545121" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_core_ui_24_2_1.xml" timestamp="1531318546080" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_core_utils_24_2_1.xml" timestamp="1531318546812" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_fragment_24_2_1.xml" timestamp="1531318547350" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_media_compat_24_2_1.xml" timestamp="1531318548010" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_v4_24_2_1.xml" timestamp="1531318548170" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_android_support_support_vector_drawable_24_2_1.xml" timestamp="1531318548907" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" timestamp="1531318549041" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_google_code_gson_gson_2_4_jar.xml" timestamp="1531318549213" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_google_dagger_dagger_2_4_jar.xml" timestamp="1531318549339" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_jakewharton_butterknife_7_0_1_jar.xml" timestamp="1531318549424" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_kevin_wraprecyclerview_1_0_6.xml" timestamp="1531318549551" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_squareup_okhttp3_okhttp_3_3_0_jar.xml" timestamp="1531318549653" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_squareup_okio_okio_1_8_0_jar.xml" timestamp="1531318549840" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_squareup_retrofit2_adapter_rxjava_2_0_1_jar.xml" timestamp="1531318549962" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_squareup_retrofit2_converter_gson_2_0_0_beta4_jar.xml" timestamp="1531318550158" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_squareup_retrofit2_converter_scalars_2_0_0_beta4_jar.xml" timestamp="1531318550298" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__com_squareup_retrofit2_retrofit_2_1_0_jar.xml" timestamp="1531318550683" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__io_reactivex_rxandroid_1_1_0.xml" timestamp="1531318551356" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__io_reactivex_rxjava_1_1_5_jar.xml" timestamp="1531318552235" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1531318552783" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1531318552969" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__org_glassfish_javax_annotation_10_0_b28_jar.xml" timestamp="1531318553442" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__org_greenrobot_eventbus_3_0_0_jar.xml" timestamp="1531318553559" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1531318553691" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\misc.xml" timestamp="1531323096871" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\modules.xml" timestamp="1531318541215" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\runConfigurations.xml" timestamp="1531317816686" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\.idea\workspace.xml" timestamp="1531558475596" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\NiuFaNet.iml" timestamp="1531323096621" />
+    <file path="F:\AndroidStudio_Work\NiuFaNet\app\app.iml" timestamp="1531318540871" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\codeStyles\Project.xml" timestamp="1531552648156" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\encodings.xml" timestamp="1531552369613" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\core_3_3_0.xml" timestamp="1531552371218" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\core_3_3_01.xml" timestamp="1531552371364" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\core_3_3_02.xml" timestamp="1531552371545" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\core_3_3_03.xml" timestamp="1531552371654" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\gradle_wrapper.xml" timestamp="1531552371739" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\gradle_wrapper1.xml" timestamp="1531552371850" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\gradle_wrapper2.xml" timestamp="1531552371977" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\libraries\gradle_wrapper3.xml" timestamp="1531552372060" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\misc.xml" timestamp="1531552647953" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\modules.xml" timestamp="1531552371099" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\.idea\workspace.xml" timestamp="1531552693682" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\SunmiPrinterDemoMini\app\src\main\main2.iml" timestamp="1531552446115" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\SunmiPrinterDemoP&amp;V1s\app\src\main\main.iml" timestamp="1531552446491" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\SunmiPrinterDemoT&amp;S\app\src\main\main1.iml" timestamp="1531552445270" />
+    <file path="C:\Users\Administrator\Desktop\shundezao\SunmiPrinterDemo-master\SunmiPrinterDemoV1\app\src\main\main3.iml" timestamp="1531552445402" />
+  </project-files>
+</conversion>
+
